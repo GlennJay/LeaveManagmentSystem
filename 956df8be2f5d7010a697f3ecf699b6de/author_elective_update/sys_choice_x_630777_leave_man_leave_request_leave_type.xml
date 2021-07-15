@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="leave_type" table="x_630777_leave_man_leave_request" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>leave_type</element>
+            <name>x_630777_leave_man_leave_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-15 20:42:40</sys_created_on>
+            <sys_id>092205f62f9d7010a697f3ecf699b65e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>leave_type</sys_name>
+            <sys_package display_value="Leave Management System" source="x_630777_leave_man">956df8be2f5d7010a697f3ecf699b6de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Management System">956df8be2f5d7010a697f3ecf699b6de</sys_scope>
+            <sys_update_name>sys_choice_x_630777_leave_man_leave_request_leave_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-15 20:42:40</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Casual Leave</label>
+            <language>en</language>
+            <name>x_630777_leave_man_leave_request</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-15 20:42:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7412c5762f9d7010a697f3ecf699b628</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-15 20:43:13</sys_updated_on>
+            <value>cl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Earned Leave</label>
+            <language>en</language>
+            <name>x_630777_leave_man_leave_request</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-15 20:43:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c122c5762f9d7010a697f3ecf699b629</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-15 20:43:17</sys_updated_on>
+            <value>en</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sick Leave</label>
+            <language>en</language>
+            <name>x_630777_leave_man_leave_request</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-15 20:43:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f3201f62f9d7010a697f3ecf699b698</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-15 20:44:05</sys_updated_on>
+            <value>sl</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>leave_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work From Home</label>
+            <language>en</language>
+            <name>x_630777_leave_man_leave_request</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-15 20:44:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac7205f62f9d7010a697f3ecf699b667</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-15 20:44:24</sys_updated_on>
+            <value>wfh</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
